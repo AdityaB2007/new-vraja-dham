@@ -1,86 +1,38 @@
 # New Vraja Dham Website
 
-Official website for **New Vraja Dham**, an ISKCON-affiliated bhakti-yoga center located in Baton Rouge, Louisiana.
+Official website for **New Vraja Dham**, an ISKCON-affiliated bhakti-yoga center in Baton Rouge, Louisiana.
 
-The website serves as a central resource for visitors, devotees, students, and members of the local community to learn about temple programs, devotional practices, educational resources, and upcoming events.
+## Website
 
----
+The website provides information about:
 
-## About New Vraja Dham
+- Temple programs and events
+- Bhakti-yoga and devotional practices
+- Educational resources
+- Community activities
+- Contact information
+- Photo gallery
 
-New Vraja Dham is dedicated to sharing the teachings of Lord Krishna through the practice of **bhakti-yoga**, following the Gaudiya Vaishnava tradition as presented by **His Divine Grace A. C. Bhaktivedanta Swami Prabhupāda**, Founder-Ācārya of the International Society for Krishna Consciousness (ISKCON).
+## Features
 
-Regular activities include:
+- Responsive design
+- SEO and Open Graph metadata
+- Contact form
+- Mobile-friendly layout
 
-- Congregational kīrtana
-- Japa meditation
-- Bhagavad-gītā and Śrīmad-Bhāgavatam discussions
-- Instrumental and devotional music instruction
-- Community outreach programs
-- Festivals and special observances
-- Prasādam distribution
+## Built With
 
----
-
-## Website Features
-
-The website currently includes:
-
-- Home page
-- About page
-- Programs and schedule page
-- Resources page
-- Contact page
-- Gallery page
-- Mobile-friendly layouts
-- SEO (Search Engine Optimization) and OG (Open Graph) metadata
-- Contact form integration
-
----
-
-## Technology Stack
-
-- HTML5 (webpage structure)
-- CSS3 (webpage styling)
-- Formspree (contact form handling)
-
-The project intentionally uses a lightweight technology stack to maximize accessibility, performance, maintainability, and ease of future updates.
-
----
+- HTML5
+- CSS3
+- JavaScript
+- Formspree
 
 ## Running Locally
 
-Clone the repository and open:
-
-```text
-index.html
-```
-
-in your preferred web browser.
+Clone the repository and open `index.html` in a web browser.
 
 No build process or additional dependencies are required.
 
----
-
-## Project Goals
-
-The website aims to:
-
-- Introduce visitors to Krishna consciousness
-- Provide clear information about temple programs and activities
-- Share devotional and educational resources
-- Encourage community participation and engagement
-- Create an accessible and welcoming online presence for the center
-
----
-
-## Acknowledgements
-
-Special thanks to ISKCON Baton Rouge center for their moral support and encouragement in this endeavor,
-as well as their continued service to the community. All glories to Śrīla Prabhupāda and all devotees.
-
----
-
 ## License
 
-This project is distributed under the terms specified in the accompanying LICENSE file.
+See the accompanying `LICENSE` file for license information.
